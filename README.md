@@ -23,8 +23,8 @@ See it for yourself! Check the video and image album below.
 ### [Play Button](https://youtu.be/1DLlS3vu3AU)
 
 ## Code
-* GitHub Page: https://github.com/fusez/Snake
-* GitHub Download: https://github.com/fusez/Snake/archive/master.zip
+* GitHub Page: https://github.com/simonseidel/Snake
+* GitHub Download: https://github.com/simonseidel/Snake/archive/master.zip
 
 ## How to Get Started
 1. Download ```snake.pwn``` and put it in your ```filterscripts``` folder.
